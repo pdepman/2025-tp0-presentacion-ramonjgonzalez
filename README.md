@@ -1,10 +1,10 @@
-##Presentacion
+## Presentacion
 
 
-###Ramon Jose Gonzalez
+### Ramon Jose Gonzalez
 
 
-####Legajo: 220.828-3
+#### Legajo: 220.828-3
 
 ![Mi foto](imagenes/20221224_234045.jpg)
 
